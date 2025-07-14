@@ -1,0 +1,7 @@
+[package]
+name = "AlbanianVirus"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+winsafe = { version = "0.0.25", features = ["gui"] }
